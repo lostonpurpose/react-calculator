@@ -6,7 +6,7 @@ function App() {
     <div className="calculator-grid">
       <div className="output">
         <div className="previous-operand">4353454 *</div>
-        <div className="current-operand">45,45,65</div>
+        <div className="current-operand">45,45,66546546546512189805</div>
       </div>
 
       <button className="span-two">AC</button>
